@@ -39,28 +39,14 @@ ex) mv index.html ../js/index.html, mv index.html what.html
 cp 파일 복사
 ex) cp index.html ../view/index.html, cp what.html ../view/index.html
 
-
-
-git config --global user.name Youjin-Oh(깃아이디)
-
-git config --global user.email oyj3474@naver.com  
-  
-git config --list  
-  
-
 echo "youjin" >> READ.md
-
 
 cat READ.md
 
-git remote -v
+외부 링크 - [Title](link)
 
+이미지 - ![git](위치)
 
-git status
-git add md/CLI.md
-git commit -m "이름추가(주석)"
-git commit -m "이름추가(주석) -> enter -> 주석추가"
-git push origin -u master
 
 
 
