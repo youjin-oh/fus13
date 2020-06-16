@@ -35,3 +35,6 @@ ex) git tag v3, git tag v2 a644db1
 
 git reset : 버전 되돌리기
 ex) git reset --hard v4
+
+git tag -d : 버전 삭제
+ex) git tag -d v1
