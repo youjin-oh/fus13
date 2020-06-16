@@ -57,8 +57,9 @@ git remote -v
 
 
 git status
-git add .
+git add md/CLI.md
 git commit -m "이름추가(주석)"
+git commit -m "이름추가(주석) -> enter -> 주석추가"
 git push origin -u master
 
 
