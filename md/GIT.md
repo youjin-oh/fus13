@@ -26,7 +26,7 @@ git add .
 git commit -m "이름추가(주석)"
 git commit -m "이름추가(주석) -> enter -> 주석추가"
 git push origin -u master
-
+ 
 git log 로그 확인
 git log -oneline
 
