@@ -30,7 +30,8 @@ git push origin -u master
 git log 로그 확인
 git log -oneline
 
-git reset : 버전 되돌리기
-
 git tag : 버전에 tag 추가 또는 삭제하기
 ex) git tag v3, git tag v2 a644db1
+
+git reset : 버전 되돌리기
+ex) git reset --hard v4
