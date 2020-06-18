@@ -39,7 +39,9 @@ mv 파일 이동 및 이름 변경
 ex) mv index.html ../js/index.html, mv index.html what.html
 
 cp 파일 복사
-ex) cp index.html ../view/index.html, cp what.html ../view/index.html
+ex) cp index.html ../view/index.html
+cp what.html ../view/index.html
+cp -r MobileWeb/* fus13  -r 모든 파일, * 모든 파일
 
 echo "youjin" >> READ.md
 
