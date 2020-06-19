@@ -124,7 +124,7 @@ a img {
   background: #ffffff;
   transition: all 0.3s ease;
 }
-
+/
 .app-header .button.is-open-menu .ir {
   display: block;
   cursor: pointer;
