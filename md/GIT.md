@@ -38,3 +38,6 @@ ex) git reset --hard v4
 
 git tag -d : 버전 삭제
 ex) git tag -d v1
+
+git pull origin master
+git patch origin master
